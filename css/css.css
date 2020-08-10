@@ -1,0 +1,450 @@
+.btn-primary {
+    color: #fff;
+    background-color: #fca91f;
+    border-color: #fca91f;
+}
+
+#w_grid-1553322258350 .p_gridbox {
+    width: 100%;
+    overflow: inherit;
+    position: static;
+}
+
+
+
+#w_grid-1553484080181 {
+    position: relative;
+    z-index: 999;
+}
+
+#w_grid-1559203779459 .p_gridbox {
+    width: 100%;
+    overflow: inherit;
+    position: static;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #fca91f;
+    border-color: #fca91f;
+}
+.btn-primary:active:hover{
+    background-color: #3d2d23;
+}
+
+.btn {
+    padding: 8px 12px;
+    border-radius: 0px;
+    /* background: #c20000; */
+    margin-top: 10px;
+}
+
+#w_grid-1566531143545 {
+
+    position: relative;
+    z-index: 99999;
+}
+@media only screen and (max-width: 1366px) {
+}
+
+@media only screen and (max-width: 1070px) {
+    .c_portalResnav_main-01001 .p_problemCategory {
+        display: block;
+    }
+
+    .c_portalResnav_main-01001 .p_navPc {
+        display: none;
+    }
+
+    .c_portalResnav_main-01001 .p_linkBox {
+        display: none !important;
+    }
+
+    .c_portalResnav_main-01001 .p_parent {
+        display: block;
+    }
+
+    .c_portalResnav_main-01001 .p_categoryBtn:before {
+        /*    content: "\e669";*/
+    }
+
+    .c_portalResnav_main-01001 .icon-arrow_up:before {
+        content: "\e69a";
+    }
+
+    .c_portalResnav_main-01001 .icon-arrow_down:before {
+        content: "\e69c";
+    }
+
+    .c_portalResnav_main-01001 .p_btn-show {
+        color: #fff;
+        background: #3d2d23;
+        float: right;
+        margin-top: 28px;
+        margin-right: 0px;
+    }
+
+    .c_portalResnav_main-01001 .p_btn-hide {
+        width: 10%;
+        height: 100%;
+        float: left;
+        background-color: #7F7F7F;
+    }
+
+    .c_portalResnav_main-01001 .p_category {
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 100%;
+        background: #fff;
+        z-index: 9;
+    }
+
+    .c_portalResnav_main-01001 .p_parent {
+        width: auto;
+        height: auto;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: -ms-flex;
+        display: flex;
+        display: -webkit-flex;
+        display: -moz-box;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: flex;
+        display: -webkit-box;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        padding: 0 0 0 30px;
+        transition: all .5s;
+    }
+
+    .c_portalResnav_main-01001 .p_categoryBox {
+        overflow-y: auto;
+        width: 90%;
+        height: 100%;
+        float: left;
+        background-color: rgb(239,239,245);
+    }
+
+    .c_portalResnav_main-01001 .p_categoryBox > .p_parentBox {
+        background-color: #FFFFFE!important;
+        padding-left: 0px;
+        width: 100%;
+        height: auto;
+    }
+
+    .c_portalResnav_main-01001 .p_parentBox {
+        width: auto;
+        height: auto;
+        color: #fff;
+    }
+
+    .c_portalResnav_main-01001 .p_parentBox {
+        width: auto;
+        height: auto;
+        color: #fff;
+        background-color: rgb(239,239,245);
+        padding-left: 0px;
+        background: none;
+        border-bottom: 1px solid #eee;
+    }
+
+    .c_portalResnav_main-01001 .p_childBox .p_parent {
+        border-bottom: 1px solid #c0c0c0;
+        border: none;
+    }
+
+    .c_portalResnav_main-01001 .p_c-fff {
+        display: inline-block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: #fff;
+        margin-left: 0px;
+        font-size: 24px;
+    }
+
+    .c_portalResnav_main-01001 .p_categoryBtn {
+        display: block;
+        margin: 12px 5px 10px 0;
+        color: #000000;
+        font-size: 12px;
+    }
+
+    .c_portalResnav_main-01001 .p_link {
+        height: auto;
+        vertical-align: middle;
+        width: initial;
+        margin: 10px 0;
+        -webkit-flex: 1;
+        -moz-flex: 1;
+        -ms-flex: 1;
+        flex: 1;
+        display: block;
+        -moz-box-flex: 1;
+        -webkit-box-flex: 1;
+        box-flex: 1;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: -ms-flex;
+        display: flex;
+        display: -webkit-flex;
+        display: -moz-box;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: flex;
+        display: -webkit-box;
+        color: #000;
+        line-height: 40px;
+        font-size: 16px;
+    }
+
+    .c_portalResnav_main-01001 {
+        width: 640px;
+    }
+
+    .c_portalResProduct_list-01001001 .p_image img {
+        width: 100%!important;
+        height: auto!important;
+        transition: all .5s;
+    }
+
+    .c_portalResProduct_list-01001001 .p_Product:hover .p_image img {
+        transform: scale(1.04) translate(-50%, -50%)!important;
+    }
+
+    .c_portalResComplaintPage_detail-01001 .p_complaintPageDetails {
+        padding: 0px;
+    }
+
+    .c_portalResPublic_websiteShare-01001 .iShare a {
+        width: 30px;
+        height: 30px;
+        margin-top: 0px;
+    }
+
+    .c_portalResnav_main-01001 .p_parent:hover {
+        background: #fca91f;
+    }
+
+    .c_portalResnav_main-01001 .p_parent:hover .p_link {
+        color: #fff;
+    }
+
+    .c_portalResnav_main-01001 .p_categoryBox>.p_parentBox>.p_childBox {
+        margin: 0px;
+        box-shadow: none;
+        height: 60px;
+        border: none;
+        background: #f1f1f1;
+        transition: all .5s;
+        height: auto;
+    }
+
+    .c_portalResnav_main-01001 .p_categoryBox>.p_parentBox>.p_childBox .p_parentBox {
+        height: 60px;
+    }
+    #w_common_text-1566531706240{
+        display:none;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .p_problemCategory {
+        text-align: right;
+        margin-top: 0px;
+    }
+    .p_problemCategory .btn{
+        width:100%;
+        
+    }
+
+    .p_categoryBox {
+        overflow-y: auto;
+        width: 90%;
+        height: 100%;
+        float: left;
+        background: #fff !important;
+        box-sizing: border-box;
+        text-align: left;
+    }
+
+    .c_portalResPublic_websiteShare-01001 .row-pad {
+        padding: 20px 0 0 0;
+        padding-right: 30px;
+    }
+
+    .c_portalResIntro_detail-01001001 .reset_style p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .c_portalResnav_main-01001 .p_parentBox .p_childBox .p_parent {
+        padding-left: 50px;
+        width: 100%;
+    }
+
+    .p_pagebox .pre:hover {
+        background-color: #fca91f;
+    }
+
+    .p_pagebox .pre {
+        background-color: #fca91f;
+    }
+
+    .p_pagebox .next {
+        background-color: #fca91f;
+    }
+
+    .p_pagebox .next:hover {
+        background-color: #fca91f
+    }
+
+    .p_pagebox .next:active {
+        background-color: #fca91f;
+    }
+
+    #w_grid-1565335038329 {
+        position: relative;
+    }
+    #w_common_text-1566531706240{
+        display:block;
+    }
+    #w_grid-1566545276640{
+        display:none;
+    }
+    #w_common_text-1566531489845 p span{
+        font-size:36px;
+    }
+     #c_portalResEbizads_banner-15680805821677392{
+        display:block;
+    }
+    #w_grid-1568080691572{
+        display:none;
+    }
+        #w_grid-1566547695805{
+        margin-bottom: 0px;
+    }
+    #w_common_text-1566548140675{
+        margin-top:0px;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    #w_grid-1553243478892 {
+        width: 200%;
+        margin-left: -50%;
+        left: 50%;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .pagebox {
+        width: 100%;
+        overflow-x: hidden;
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    .c_portalResIntro_detail-01001001 .reset_style p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .c_portalResnav_main-01001 .p_categoryBox > .p_parentBox:hover .p_linkBox {
+        display: none!important;
+    }
+
+    .c_portalResnav_main-01001 .p_categoryBox > .p_parentBox:hover .p_childBox {
+        display: block!important;
+        height: auto;
+        padding: 0px;
+    }
+}
+
+@media only screen and (min-width: 769px) {
+    #w_grid-1565335038329 {
+        position:absolute;
+        bottom: 0px;
+        width: 100%!important;
+        max-width: 960px;
+    }
+       #c_portalResEbizads_banner-15680805821677392{
+        display:none;
+    }
+}
+
+@media only screen and (max-width: 1260px) {
+}
+
+#w_grid-1553240887891 {
+    position: relative;
+    z-index: 999;
+}
+
+.e_FlowCommonStyleBox-001 .stylebox_top {
+    background: #c20000;
+    height: 60px;
+}
+
+.e_FlowCommonStyleBox-001 .stylebox_title {
+    background: #c20000;
+    height: 60px;
+}
+
+.e_FlowCommonStyleBox-001 .stylebox_top_line {
+    display: none;
+}
+
+.e_FlowCommonStyleBox-001 .stylebox_content {
+    border: none;
+    background: rgba(0,0,0,.5);
+    background: rgba(255,255,255,.1);
+}
+
+.e_FlowCommonStyleBox-001 .title_main {
+    height: 60px;
+    line-height: 60px;
+}
+
+.p_stepBox .step .p_stepCompletedIcon {
+    border: 1px solid #c20000;
+    color: #c20000;
+}
+
+.p_stepBox .step.completed .stepLine {
+    background: #c20000;
+}
+
+.p_stepBox .step.active .stepNum {
+    background: #c20000;
+    border: 1px solid #c20000;
+}
+
+.p_stepBox .step.active .stepLine {
+    background: #c20000;
+}
+
+.c_portalResOrder_settlement-01001 .p_OrderTitlteB {
+    color: #c20000;
+}
+
+.btn-link {
+    color: #c20000;
+}
+
+.tit_emphasize {
+    color: #c20000;
+}
+
+.item:hover {
+    border: 2px solid #c20000;
+}
